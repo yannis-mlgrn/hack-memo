@@ -27,7 +27,7 @@ Aircrack-ng :
 
 6. Cracker le handshake :
    - `sudo aircrack-ng handshake/handshake.cap -w [WORDLIST] `\
-   **help :** -w = location due la wordlist
+   **help :** -w = location de la wordlist
 
 7. enlever le mode moniteur et rallumer le service : 
    - `sudo airmon-ng stop wlan0mon`
