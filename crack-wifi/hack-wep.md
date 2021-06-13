@@ -1,4 +1,4 @@
-# Hacker un wifi
+# Hacker un wifi WEP
 
 ## pré requis :
 Aircrack-ng :

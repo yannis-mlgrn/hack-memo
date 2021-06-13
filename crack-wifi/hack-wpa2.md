@@ -1,4 +1,4 @@
-# Hacker un wifi
+# Hacker un wifi WPA2
 
 ## pré requis :
 Aircrack-ng :
